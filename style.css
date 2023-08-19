@@ -1,0 +1,43 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#hero{
+    width:100vw;
+    height: 50vh;
+    background-color: beige;
+    text-align:center;
+    background-image: url(https://images.unsplash.com/photo-1682686578615-39549501dd08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80);
+    background-position:centre;
+    background-size: cover;
+    padding-top: 50px;
+   
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}   
+
+#one{
+    font-size:50px;
+padding-top: 20 px; 
+}
+ #two{
+   
+    padding-bottom: 10px;
+    
+ }
+ #three{
+    margin-bottom: 30 px;
+    color:blanchedalmond;
+    padding:2px;
+    background-color:#ff4500;
+    text-transform: uppercase;
+    border:none;
+    border-radius:8px;
+    cursor: pointer;
+ }
+ #three:hover{
+    background-color: orange;
+    color: black;
+ }
